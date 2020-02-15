@@ -3,7 +3,7 @@ entries:
   passwordstore:
   - apiVersion: v2
     appVersion: 1.3.0-86
-    created: "2020-02-15T03:23:11.508270294Z"
+    created: "2020-02-15T03:39:39.306043477Z"
     description: Passwordstore helm chart
     digest: 1300d752b85121f0dc7ade5690572933ef8e3b4f817f4af16c0e67ae4d83c18d
     name: passwordstore
@@ -13,7 +13,7 @@ entries:
     version: 1.3.0+86
   - apiVersion: v2
     appVersion: 1.3.0-91
-    created: "2020-02-15T03:23:11.509030433Z"
+    created: "2020-02-15T03:39:39.30702368Z"
     description: Passwordstore helm chart
     digest: 6c017d3bb8d0054655198d4dcc65990e22aa3f8bfb641dbbe6a98853888997f4
     name: passwordstore
@@ -23,7 +23,7 @@ entries:
     version: 1.3.0+91
   - apiVersion: v2
     appVersion: 1.3.0-94
-    created: "2020-02-15T03:23:11.509838733Z"
+    created: "2020-02-15T03:39:39.308221209Z"
     description: Passwordstore helm chart
     digest: ef86f50904d52ff66d6b173920c2390dce0e85ce457b510fbe97e4402bb3af2f
     name: passwordstore
@@ -32,8 +32,18 @@ entries:
     - passwordstore-1.3.0+94.tgz
     version: 1.3.0+94
   - apiVersion: v2
+    appVersion: 1.3.0-97
+    created: "2020-02-15T03:39:39.308976973Z"
+    description: Passwordstore helm chart
+    digest: a1c6e1a95c70ff92b4205836d071b8176e9b1974548b0b5545ee9044f6588547
+    name: passwordstore
+    type: application
+    urls:
+    - passwordstore-1.3.0+97.tgz
+    version: 1.3.0+97
+  - apiVersion: v2
     appVersion: 1.3.0-83
-    created: "2020-02-15T03:23:11.51115963Z"
+    created: "2020-02-15T03:39:39.309905528Z"
     description: Passwordstore helm chart
     digest: 0d86ea85239a33769bcccba200471179585d8bccc2775952e098a0a06f3297be
     name: passwordstore
@@ -41,4 +51,4 @@ entries:
     urls:
     - passwordstore-1.3.0-83.tgz
     version: 1.3.0-83
-generated: "2020-02-15T03:23:11.507307283Z"
+generated: "2020-02-15T03:39:39.305080262Z"

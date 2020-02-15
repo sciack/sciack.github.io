@@ -52,7 +52,7 @@ entries:
     - passwordstore-1.3.0-83.tgz
     version: 1.3.0-83
   - apiVersion: v2
-    appVersion: --version
+    appVersion: 0.7.2
     created: "2020-02-15T03:45:44.576799866Z"
     description: Passwordstore helm chart
     digest: 7d18f494f87b3c9340e2b609eda10acaa20ffc409370ad1fac994a0e3fce3ab7
